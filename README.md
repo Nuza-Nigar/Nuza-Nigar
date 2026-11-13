@@ -4,7 +4,7 @@
 
 ### About me
 
-* 🔭 CFD and multiphysics engineer based in Massy, France
+* 🔭 CFD and multiphysics engineer based in France
 * 🏭 2+ years of industrial consulting at Hexagon Manufacturing Intelligence across aerospace, biotech, marine, automotive and consumer electronics
 * 🎓 MTech in Computational Fluid Dynamics and BTech in Aeronautical Engineering
 * 💻 Student at 42 Paris, learning low level programming in C through peer learning and project based work
