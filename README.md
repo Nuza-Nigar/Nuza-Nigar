@@ -8,10 +8,10 @@
 
 * 🔭 CFD and multiphysics engineer based in Massy, France
 * 🏭 2+ years of industrial consulting at Hexagon Manufacturing Intelligence across aerospace, biotech, marine, automotive and consumer electronics
-* 🎓 MTech in CFD from UPES Dehradun (ranked first in my cohort) and BTech in Aeronautical Engineering
-* ✈️ Research collaboration with Pawel Chwalowski at NASA Langley Research Center on transonic flutter analysis of the Benchmark Supercritical Wing (BSCW)
+* 🎓 MTech in Computational Fluid Dynamics and BTech in Aeronautical Engineering
+* 💻 Student at 42 Paris, learning low level programming in C through peer learning and project based work
+* ✈️ Research collaboration with NASA Langley Research Center on transonic flutter analysis of the Benchmark Supercritical Wing (BSCW)
 * 📚 Author of six publications
-* 🌱 Currently learning C through 42 projects such as ft_printf, and going deeper into HPC and mesh adaptation
 * 💬 Ask me about LES, FSI, aeroacoustics, transonic CFD and HPC
 
 ### Tools and skills
