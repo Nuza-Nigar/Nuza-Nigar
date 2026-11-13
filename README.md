@@ -1,8 +1,6 @@
 ## Hey there 👋 Nuza here
 
-<img src="https://komarev.com/ghpvc/?username=Nuza-Nigar&label=PROFILE%20VIEWS&color=7CC400&style=flat" alt="Profile views" />
-
-<a href="https://www.linkedin.com/in/nuzanigar"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<img src="https://komarev.com/ghpvc/?username=Nuza-Nigar&label=PROFILE%20VIEWS&color=7CC400&style=flat" alt="Profile views" />, <img src="https://img.shields.io/github/followers/Nuza-Nigar?style=social" alt="GitHub followers" />, <a href="mailto:nigar.nuza@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=Email&color=EA4335&logo=gmail&logoColor=white" alt="Email" /></a>, <a href="https://www.linkedin.com/in/nuzanigar"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 ### About me
 
