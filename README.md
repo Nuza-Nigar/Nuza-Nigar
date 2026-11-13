@@ -1,4 +1,4 @@
-## Hi there 👋 Nuza here
+## Hey there 👋 Nuza here
 
 <img src="https://komarev.com/ghpvc/?username=Nuza-Nigar&label=PROFILE%20VIEWS&color=7CC400&style=flat" alt="Profile views" />
 
